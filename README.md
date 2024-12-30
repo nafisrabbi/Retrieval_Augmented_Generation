@@ -13,7 +13,7 @@ You need to create a `.env` file in the root directory of your project to store 
 #### **Steps to Create the `.env` File:**
 
 1. **Get API Keys**:
-   - **GroqCloud API Key**: Visit the [GroqCloud API portal](https://groqcloud.com/) to sign up and generate an API key.
+   - **GroqCloud API Key**: Visit the [GroqCloud API portal](https://console.groq.com/playground) to sign up and generate an API key.
    - **Google AI Studio API Key**: Go to the [Google AI Studio console](https://console.cloud.google.com/), create a project, and generate an API key under "APIs & Services" → "Credentials".
 
 2. **Create `.env` File**:
@@ -82,5 +82,5 @@ This will launch the application in your default browser. The application is des
 - [Streamlit](https://streamlit.io/) for building the interactive web application.
 - [Llama3](https://ollama.com/) for NLP model integration for PDFs.
 - [Mixtral](https://huggingface.co/models) for multilingual and multitask model support for websites.
-- [GroqCloud](https://groqcloud.com/) for scalable compute services and API.
+- [GroqCloud](https://console.groq.com/playground) for scalable compute services and API.
 - [Google AI Studio](https://console.cloud.google.com/) for AI and machine learning tools.
